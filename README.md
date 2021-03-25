@@ -35,6 +35,6 @@ tcp://rpc.mainnet.iovns.dual.systems:80
 ## E-money
 ```
 tcp://rpc.mainnet.ngm.dual.systems:80
-tcp://seed.mainnet.ngm.dual.systems:26656
+4664f0fcc86d75f7f11544839139d7b8d33aab55@seed.mainnet.ngm.dual.systems:26656
 ```
 
