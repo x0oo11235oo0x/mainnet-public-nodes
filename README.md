@@ -1,3 +1,16 @@
+# State Sync enabled rpc nodes
+curl -S https://state-sync.dual.systems/xprt
+curl -S https://state-sync.dual.systems/iris
+curl -S https://state-sync.dual.systems/cmdx
+curl -S https://state-sync.dual.systems/ngm
+curl -S https://state-sync.dual.systems/osmo
+curl -S https://state-sync.dual.systems/crtk
+
+
+rpc_servers = "statesync01.dual.systems:15257, statesync02.dual.systems:15257"
+
+
+
 # Tendermint based mainnet-public-nodes 
 Public rpc, seed, lcd  node for kava, terra, certik, starname, e-money mainnets.
 
